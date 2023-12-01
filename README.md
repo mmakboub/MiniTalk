@@ -1,7 +1,7 @@
 # MiniTalk
 Minitalk is a compact data exchange program that challenges you to implement communication between clients and servers using UNIX signals.  As you embark on this coding journey, you'll create a seamless communication system where the server acknowledges messages and supports Unicode characters as a bonus feature.
 # Minitalk
-Explore the world of UNIX signals and challenge yourself to create a robust communication system in the realm of cis-3-Hexen-1-ol, a compound with an intense grassy-green odor found in freshly cut green grass and leaves.
+Explore the world of UNIX signals and challenge yourself to create a robust communication system between clients and servers.
    ## Key Features
 
    - **Client-Server Communication:** Implement a client and server system where the server displays received strings quickly.
@@ -10,16 +10,12 @@ Explore the world of UNIX signals and challenge yourself to create a robust comm
    - **Bonus Features:** Acknowledge every received message and add support for Unicode characters.
   
 ## Table of Contents
-- [Foreword](#foreword)
+
 - [Common Instructions](#common-instructions)
 - [Project Instructions](#project-instructions)
 - [Mandatory Part](#mandatory-part)
 - [Bonus Part](#bonus-part)
 - [Submission and Peer-evaluation](#submission-and-peer-evaluation)
-
-## Foreword
-
-The cis-3-Hexen-1-ol, also known as (Z)-3-hexen-1-ol and leaf alcohol, sets the aromatic backdrop for our small data exchange program. Embrace the challenge of implementing UNIX signals to create a communication system between clients and servers.
 
 ## Common Instructions
 
